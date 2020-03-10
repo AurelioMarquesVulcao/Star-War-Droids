@@ -25,6 +25,5 @@ Vamos criar um crud com tematica Star Wars, onde iremos fazer requisições via 
 
 ### O Adimin do Django deve ser capaz de ler todas as demandas cadastradas em especial o status de Finalizaão deve ser apresentado com uma imagem svg.
 
-
 ## <img src='./img/baseline-check_circle_outline.svg'>
 ## <img src='./img/baseline-highlight_off.svg'>

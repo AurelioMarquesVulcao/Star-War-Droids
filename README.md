@@ -4,7 +4,7 @@ Vamos criar um crud com tematica Star Wars, onde iremos fazer requisições via 
 
 ## As Guerras Clonicas avanção e os separatistas precisam de mais Droids.
 <p> 
-    Nosso Chanceler Bozo, em uma atitude ousada se uniu aos separatistas da Galaxia. E nos tornamos oficialmente fornecedores de peças Droids.
+    Nosso Chanceler Palpatine, em uma atitude ousada se uniu aos separatistas da Galaxia. E nos tornamos oficialmente fornecedores de peças Droids.
 </p>
 
 ### Uma demanda de peças é composta por:
